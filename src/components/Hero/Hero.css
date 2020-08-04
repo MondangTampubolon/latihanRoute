@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(250, 243, 233)
+}
+.wrapper-section-one{
+  margin: 100px 250px;
+  background-color: white;
+}
+.wrapper-section-one h1{
+  padding:  30px;
+}
+.wrapper-section-one p{
+  padding-bottom: 20px;
+}
+.wrapperButton{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding-bottom: 50px;
+}
+.wrapperButton .actionButton{
+  padding-left: 20px;
+}
